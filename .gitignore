@@ -1,6 +1,10 @@
 # Local environment files
 *.env
 a.env
+loadx-env.sh
+
+# Local source material
+agent harness engineering a survey.pdf
 
 # Python / tooling caches
 __pycache__/
